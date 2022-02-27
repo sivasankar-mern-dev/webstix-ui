@@ -1,0 +1,18 @@
+.carousel {
+  overflow: hidden;
+  width: 90%;
+}
+
+.inner {
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+
+.carousel-item {
+  display: inline-flex;
+}
+
+.indicator {
+  font-size: 40px !important;
+  cursor: pointer;
+}
